@@ -184,7 +184,9 @@ This analysis shows that Walmart’s weekly sales are primarily driven by **seas
 ## 👤 Author
 
 **Ayman Khan**
+
 Aspiring Data Analyst / Data Scientist
+
 📍 Portfolio Project
 
 
