@@ -50,7 +50,7 @@ The analysis aims to answer the following key business questions:
 ### **4.1 How are overall sales performing over time?**
 
 Weekly sales remain mostly stable throughout the year, with **clear spikes during major holidays** such as Thanksgiving and Christmas. After these peaks, sales return to normal levels, indicating that the increase is **temporary and holiday-driven**, not long-term growth.
-[plot](plots/1.png)
+![plot](plots/1.png)
 
 ---
 
@@ -65,7 +65,7 @@ Sales performance varies significantly across stores.
 * Store 14
 * Store 13
 
-[plot](plots/2.1.png)
+![plot](plots/2.1.png)
 
 **Lowest-performing stores:**
 
@@ -73,7 +73,7 @@ Sales performance varies significantly across stores.
 * Store 44
 * Store 5
 * Store 36
-[plot](plots/2.2.png)
+![plot](plots/2.2.png)
 A small number of stores generate a large portion of total revenue.
 
 ---
@@ -84,7 +84,7 @@ Average weekly sales show only a **slight difference**:
 
 * **Regular weeks:** ~15,950
 * **Holiday weeks:** ~17,093
-[plot](plots/3.png)
+![plot](plots/3.png)
 Only **major holidays** drive noticeable spikes.
 
 **Insight:**
@@ -101,7 +101,7 @@ Yes, sales follow a clear seasonal pattern:
 * A dip around November, followed by recovery in December
 
 Seasonality plays a key role in demand planning.
-[plot](plots/4.png)
+![plot](plots/4.png)
 ---
 
 ### **4.5 Do promotions (MarkDowns) affect sales?**
@@ -110,7 +110,7 @@ Seasonality plays a key role in demand planning.
 * **With promotions:** ~16,229 average weekly sales
 
 Promotions increase sales by about **310**, which represents a **modest uplift**.
-[plot](plots/5.png)
+![plot](plots/5.png)
 **Insight:**
 Promotions help slightly but do not create large overall sales jumps.
 
@@ -119,7 +119,7 @@ Promotions help slightly but do not create large overall sales jumps.
 ### **4.6 Do economic factors affect sales?**
 
 The correlation between weekly sales and economic indicators (CPI, fuel price, unemployment, temperature) is **very weak**.
-[plot](plots/6.png)
+![plot](plots/6.png)
 **Insight:**
 Short-term economic changes do not strongly influence weekly sales.
 
@@ -140,7 +140,7 @@ Short-term economic changes do not strongly influence weekly sales.
 * Store 5
 * Store 9
 * Store 44
-[plot](plots/7.png)
+![plot](plots/7.png)
 **Insight:**
 
 * Extreme spikes make forecasting difficult
@@ -150,7 +150,7 @@ Short-term economic changes do not strongly influence weekly sales.
 
 ##  Power BI Dashboard Overview
 
-[Dashbaord](plots/Dashboard.png)
+![Dashbaord](plots/Dashboard.png)
 
 
 
