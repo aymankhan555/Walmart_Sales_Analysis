@@ -47,14 +47,14 @@ The analysis aims to answer the following key business questions:
 
 ##  Key Analysis Questions & Findings
 
-### **1 How are overall sales performing over time?**
+### **1. How are overall sales performing over time?**
 
 Weekly sales remain mostly stable throughout the year, with **clear spikes during major holidays** such as Thanksgiving and Christmas. After these peaks, sales return to normal levels, indicating that the increase is **temporary and holiday-driven**, not long-term growth.
 ![plot](plots/1.png)
 
 ---
 
-### **2 Which stores perform best and worst?**
+### **2. Which stores perform best and worst?**
 
 Sales performance varies significantly across stores.
 
@@ -78,7 +78,7 @@ A small number of stores generate a large portion of total revenue.
 
 ---
 
-### **3 Do holidays increase sales?**
+### **3. Do holidays increase sales?**
 
 Average weekly sales show only a **slight difference**:
 
@@ -92,7 +92,7 @@ Holiday impact is **event-specific**, not consistent across all holiday weeks.
 
 ---
 
-### **4 Is there seasonality in sales?**
+### **4. Is there seasonality in sales?**
 
 Yes, sales follow a clear seasonal pattern:
 
@@ -104,7 +104,7 @@ Seasonality plays a key role in demand planning.
 ![plot](plots/4.png)
 ---
 
-### **5 Do promotions (MarkDowns) affect sales?**
+### **5. Do promotions (MarkDowns) affect sales?**
 
 * **Without promotions:** ~15,919 average weekly sales
 * **With promotions:** ~16,229 average weekly sales
@@ -116,7 +116,7 @@ Promotions help slightly but do not create large overall sales jumps.
 
 ---
 
-### **6 Do economic factors affect sales?**
+### **6. Do economic factors affect sales?**
 
 The correlation between weekly sales and economic indicators (CPI, fuel price, unemployment, temperature) is **very weak**.
 ![plot](plots/6.png)
@@ -125,7 +125,7 @@ Short-term economic changes do not strongly influence weekly sales.
 
 ---
 
-### **7 Are there unstable or risky stores?**
+### **7. Are there unstable or risky stores?**
 
 **Most unstable (large spikes):**
 
